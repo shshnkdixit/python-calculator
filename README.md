@@ -17,3 +17,6 @@ Shashank Dixit
 
 ## Project Link
 [Python Calculator](https://github.com/shshnkdixit/python-calculator)
+
+## Learning Outcome
+This project helped me understand Python basics and conditional statements.
